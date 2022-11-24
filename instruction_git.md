@@ -21,8 +21,10 @@
 
 
     git add <filename>
+    
+Чтобы изменить существующие, неотправленные сообщения фиксации нужно ввести команду:
 
-  git commit -m "message"
+    git commit -m "message"
 
   git commit -a
 
