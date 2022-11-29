@@ -70,3 +70,4 @@
 
     git checkout (title)
 
+## Слияние
